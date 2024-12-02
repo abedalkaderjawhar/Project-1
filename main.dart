@@ -1,8 +1,9 @@
 /*
-Students Names: Abed Alkader Jawhar-Mohammad Mokadem.
+Students Names: Abed Alkader Jawhar 12131052 -Mohammad Mokadem 12032857.
 Instructor Name:Dr. Bassel Dhaini.
 Section: E MW 3:30.
 Course: Mobile application CSCI410.
+
 */
 import 'package:flutter/material.dart';
 
