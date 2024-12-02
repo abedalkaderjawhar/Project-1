@@ -1,2 +1,6 @@
-# Project-1
-echo "# Project-1-" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/abedalkaderjawhar/Project-1-.git git push -u origin main
+/*
+Students Names: Abed Alkader Jawhar-Mohammad Mokadem.
+Instructor Name:Dr. Bassel Dhaini.
+Section: E MW 3:30.
+Course: Mobile application CSCI410.
+*/
